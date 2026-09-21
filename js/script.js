@@ -5,11 +5,10 @@
   Set birthdayDate to the recipient's birthday in YYYY-MM-DD format.
 */
 const CONFIG = {
-  recipientName: "[HER_NAME]",
-  senderName: "[YOUR_NAME]",
-
+  recipientName: "Kiran",
+  senderName: "Kritagya"
   // Example: "2026-09-22"
-  birthdayDate: "YYYY-MM-DD",
+  birthdayDate: "22-09-2026",
 
   birthdayMessage:
     "I hope this year brings you happiness, beautiful moments, new adventures, and countless reasons to smile.",
